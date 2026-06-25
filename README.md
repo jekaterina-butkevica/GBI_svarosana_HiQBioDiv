@@ -1,4 +1,11 @@
+# Faili
 
+Konfigurācijas faili:
+- features_example1.txt
+- minimal_settings.z5
+- z5_example1.cmd
+  
+**Jāatver caur teksta redaktoru**
 
 ## Pirmais 
 
