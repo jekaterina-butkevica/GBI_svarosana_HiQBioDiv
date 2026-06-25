@@ -1,5 +1,0 @@
-project id = example_of_source_based_IA
-impact source raster file = ../data/impact_sources.tif
-area conversion factor = 1
-area unit name = ha
-impact unit name = hha

@@ -1,5 +1,0 @@
-feature list file = ia_features_list.txt
-impact assessment scenario file = source_ia_scenario.txt
-impact buffers file = impact_buffers.txt
-binning link file = binning_link.txt
-stop after preprocessing = 1

@@ -1,5 +1,0 @@
-1 0 negexp(2, 10)
-2 0 negexp(5, 10)
-3 0 negexp(10, 10)
-4 0 gaussian(5, 4)
-5 0 gaussian(20, 4)

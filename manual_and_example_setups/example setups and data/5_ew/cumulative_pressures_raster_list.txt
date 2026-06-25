@@ -1,2 +1,0 @@
-normalize offset divisor filename
-0         0      1       ../data/impact_pressure.tif

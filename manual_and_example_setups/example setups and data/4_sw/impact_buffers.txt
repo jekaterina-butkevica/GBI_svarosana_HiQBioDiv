@@ -1,5 +1,0 @@
-#group source footprint_impact z1_radius z1_impact z2_radius z2_impact
-1      1      100              5         60
-1      2      100              10        70        20        30
-2      1      100              7         50        10        20
-2      2      100              15        75        50        25
