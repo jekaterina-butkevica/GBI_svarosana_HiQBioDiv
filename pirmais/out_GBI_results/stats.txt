@@ -14,10 +14,10 @@ Mean feature extent across study area: 94.77%
 Memory usage of feature data: 130.73MB
 Mean quantization error: 0.0157143%
 Time used to read and preprocess layer data: 7s
-Time used in prioritization: 24s
+Time used in prioritization: 23s
 Number of iterations: 17
 Final convergence level: 0.00868001%
 Area under curve: 0.640316
-Total time used: 33s
+Total time used: 32s
 Number of errors: 0
-Number of warnings: 2
+Number of warnings: 0

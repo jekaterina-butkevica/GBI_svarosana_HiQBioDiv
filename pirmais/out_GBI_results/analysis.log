@@ -1,64 +1,62 @@
-[2026-06-26 00:03:55.776] [info] Zonation 5 v2.4
-[2026-06-26 00:03:55.951] [info] Arguments given: -w --mode=ABF --gui minimal_settings.z5 out_GBI_results
-[2026-06-26 00:03:55.960] [info] Using 8-bit quantization
-[2026-06-26 00:03:55.963] [info] Using 24 threads for computation
-[2026-06-26 00:03:55.963] [info] Loading project "minimal_settings.z5"
-[2026-06-26 00:03:55.967] [info] Using setting: feature list file = features_example1.txt
-[2026-06-26 00:03:55.971] [info] Using default setting: curves output interval = 9.99999975e-05
-[2026-06-26 00:03:55.972] [info] Using default setting: max iterations = 500
-[2026-06-26 00:03:55.972] [info] Using default setting: mean ranking error threshold = 0.00999999978
-[2026-06-26 00:03:55.973] [info] Using default setting: smoothing factor = 0
-[2026-06-26 00:03:55.974] [info] Using default setting: stop on plateau = 0
-[2026-06-26 00:03:55.975] [info] Using default setting: zero mode = all
-[2026-06-26 00:03:55.976] [info] Using default setting: stop after preprocessing = 0
-[2026-06-26 00:03:55.976] [info] Using default setting: quantization error warning threshold = 20
-[2026-06-26 00:03:55.977] [warning] Unknown setting: edge removal
-[2026-06-26 00:03:55.977] [warning] Unknown setting: removal rule
-[2026-06-26 00:03:55.980] [info] Loading feature layer information from "C:\Users\user\Desktop\HiQBioDiv\GBI_svarosana_HiQBioDiv\pirmais\features_example1.txt"
-[2026-06-26 00:03:55.994] [info] Validating project
-[2026-06-26 00:03:56.047] [info] Reading layer data
-[2026-06-26 00:03:56.101] [info] Gathering data statistics
-[2026-06-26 00:03:57.790] [info] Map dimensions (width * height): 4700*2789
-[2026-06-26 00:03:57.791] [info] Number of grid cells in map (width * height): 13108300
-[2026-06-26 00:03:57.796] [info] Number of grid cells in map with data: 6468604
-[2026-06-26 00:03:57.799] [info] Input feature layer count: 11
-[2026-06-26 00:03:57.803] [info] Feature layer count: 11
-[2026-06-26 00:03:57.806] [info] Positive weight feature count: 11
-[2026-06-26 00:03:57.812] [info] Negative weight feature count: 0
-[2026-06-26 00:03:57.815] [info] Zero weight feature count: 0
-[2026-06-26 00:03:57.819] [info] Total number of pixels with data across features: 71154644
-[2026-06-26 00:03:57.822] [info] Reading feature layers
-[2026-06-26 00:04:02.832] [info] 81.0%
-[2026-06-26 00:04:03.922] [info] Mean feature extent across study area: 94.77%
-[2026-06-26 00:04:03.924] [info] Memory usage of feature data: 130.73MB
-[2026-06-26 00:04:03.928] [info] Mean quantization error: 0.0157143%
-[2026-06-26 00:04:03.939] [info] Time used to read and preprocess layer data: 7s
-[2026-06-26 00:04:03.942] [info] Computing priority rank
-[2026-06-26 00:04:05.519] [info] Iteration 0, mean ranking error 1.94958%, mean rank change 0.627999%
-[2026-06-26 00:04:06.883] [info] Iteration 1, mean ranking error 1.07199%, mean rank change 0.278218%
-[2026-06-26 00:04:08.279] [info] Iteration 2, mean ranking error 0.622108%, mean rank change 0.128047%
-[2026-06-26 00:04:09.673] [info] Iteration 3, mean ranking error 0.380749%, mean rank change 0.0626047%
-[2026-06-26 00:04:11.031] [info] Iteration 4, mean ranking error 0.244765%, mean rank change 0.0327565%
-[2026-06-26 00:04:12.399] [info] Iteration 5, mean ranking error 0.163462%, mean rank change 0.0182742%
-[2026-06-26 00:04:13.904] [info] Iteration 6, mean ranking error 0.113125%, mean rank change 0.0108007%
-[2026-06-26 00:04:15.273] [info] Iteration 7, mean ranking error 0.0806033%, mean rank change 0.00671740%
-[2026-06-26 00:04:16.624] [info] Iteration 8, mean ranking error 0.0589402%, mean rank change 0.00435429%
-[2026-06-26 00:04:17.976] [info] Iteration 9, mean ranking error 0.0439959%, mean rank change 0.00291967%
-[2026-06-26 00:04:19.329] [info] Iteration 10, mean ranking error 0.0334448%, mean rank change 0.00201438%
-[2026-06-26 00:04:20.730] [info] Iteration 11, mean ranking error 0.0258417%, mean rank change 0.00142378%
-[2026-06-26 00:04:22.132] [info] Iteration 12, mean ranking error 0.0203485%, mean rank change 0.00102757%
-[2026-06-26 00:04:23.612] [info] Iteration 13, mean ranking error 0.0161746%, mean rank change 0.000755099%
-[2026-06-26 00:04:25.249] [info] Iteration 14, mean ranking error 0.0129783%, mean rank change 0.000563601%
-[2026-06-26 00:04:26.792] [info] Iteration 15, mean ranking error 0.0105800%, mean rank change 0.000426569%
-[2026-06-26 00:04:28.347] [info] Iteration 16, mean ranking error 0.00868001%, mean rank change 0.000326759%
-[2026-06-26 00:04:28.444] [info] Time used in prioritization: 24s
-[2026-06-26 00:04:28.446] [info] Number of iterations: 17
-[2026-06-26 00:04:28.452] [info] Final convergence level: 0.00868001%
-[2026-06-26 00:04:28.457] [info] Area under curve: 0.640316
-[2026-06-26 00:04:28.466] [info] Writing feature info
-[2026-06-26 00:04:28.474] [info] Writing feature curves
-[2026-06-26 00:04:28.581] [info] Writing priority rank map
-[2026-06-26 00:04:29.174] [info] Total time used: 33s
-[2026-06-26 00:04:29.177] [info] Number of errors: 0
-[2026-06-26 00:04:29.183] [info] Number of warnings: 2
-[2026-06-26 00:04:29.191] [info] Done
+[2026-06-26 02:00:21.039] [info] Zonation 5 v2.4
+[2026-06-26 02:00:21.211] [info] Arguments given: -w --mode=ABF --gui minimal_settings.z5 out_GBI_results
+[2026-06-26 02:00:21.220] [info] Using 8-bit quantization
+[2026-06-26 02:00:21.222] [info] Using 24 threads for computation
+[2026-06-26 02:00:21.222] [info] Loading project "minimal_settings.z5"
+[2026-06-26 02:00:21.226] [info] Using setting: feature list file = features_example1.txt
+[2026-06-26 02:00:21.229] [info] Using default setting: curves output interval = 9.99999975e-05
+[2026-06-26 02:00:21.231] [info] Using default setting: max iterations = 500
+[2026-06-26 02:00:21.232] [info] Using default setting: mean ranking error threshold = 0.00999999978
+[2026-06-26 02:00:21.233] [info] Using default setting: smoothing factor = 0
+[2026-06-26 02:00:21.234] [info] Using default setting: stop on plateau = 0
+[2026-06-26 02:00:21.235] [info] Using default setting: zero mode = all
+[2026-06-26 02:00:21.236] [info] Using default setting: stop after preprocessing = 0
+[2026-06-26 02:00:21.236] [info] Using default setting: quantization error warning threshold = 20
+[2026-06-26 02:00:21.237] [info] Loading feature layer information from "C:\Users\user\Desktop\HiQBioDiv\GBI_svarosana_HiQBioDiv\pirmais\features_example1.txt"
+[2026-06-26 02:00:21.246] [info] Validating project
+[2026-06-26 02:00:21.253] [info] Reading layer data
+[2026-06-26 02:00:21.269] [info] Gathering data statistics
+[2026-06-26 02:00:22.934] [info] Map dimensions (width * height): 4700*2789
+[2026-06-26 02:00:22.936] [info] Number of grid cells in map (width * height): 13108300
+[2026-06-26 02:00:22.940] [info] Number of grid cells in map with data: 6468604
+[2026-06-26 02:00:22.943] [info] Input feature layer count: 11
+[2026-06-26 02:00:22.946] [info] Feature layer count: 11
+[2026-06-26 02:00:22.950] [info] Positive weight feature count: 11
+[2026-06-26 02:00:22.953] [info] Negative weight feature count: 0
+[2026-06-26 02:00:22.956] [info] Zero weight feature count: 0
+[2026-06-26 02:00:22.960] [info] Total number of pixels with data across features: 71154644
+[2026-06-26 02:00:22.965] [info] Reading feature layers
+[2026-06-26 02:00:27.972] [info] 81.3%
+[2026-06-26 02:00:29.059] [info] Mean feature extent across study area: 94.77%
+[2026-06-26 02:00:29.061] [info] Memory usage of feature data: 130.73MB
+[2026-06-26 02:00:29.064] [info] Mean quantization error: 0.0157143%
+[2026-06-26 02:00:29.075] [info] Time used to read and preprocess layer data: 7s
+[2026-06-26 02:00:29.083] [info] Computing priority rank
+[2026-06-26 02:00:30.674] [info] Iteration 0, mean ranking error 1.94958%, mean rank change 0.627999%
+[2026-06-26 02:00:32.063] [info] Iteration 1, mean ranking error 1.07199%, mean rank change 0.278218%
+[2026-06-26 02:00:33.409] [info] Iteration 2, mean ranking error 0.622108%, mean rank change 0.128047%
+[2026-06-26 02:00:34.798] [info] Iteration 3, mean ranking error 0.380749%, mean rank change 0.0626047%
+[2026-06-26 02:00:36.242] [info] Iteration 4, mean ranking error 0.244765%, mean rank change 0.0327565%
+[2026-06-26 02:00:37.640] [info] Iteration 5, mean ranking error 0.163462%, mean rank change 0.0182742%
+[2026-06-26 02:00:39.005] [info] Iteration 6, mean ranking error 0.113125%, mean rank change 0.0108007%
+[2026-06-26 02:00:40.414] [info] Iteration 7, mean ranking error 0.0806033%, mean rank change 0.00671740%
+[2026-06-26 02:00:41.771] [info] Iteration 8, mean ranking error 0.0589402%, mean rank change 0.00435429%
+[2026-06-26 02:00:43.139] [info] Iteration 9, mean ranking error 0.0439959%, mean rank change 0.00291967%
+[2026-06-26 02:00:44.534] [info] Iteration 10, mean ranking error 0.0334448%, mean rank change 0.00201438%
+[2026-06-26 02:00:45.887] [info] Iteration 11, mean ranking error 0.0258417%, mean rank change 0.00142378%
+[2026-06-26 02:00:47.236] [info] Iteration 12, mean ranking error 0.0203485%, mean rank change 0.00102757%
+[2026-06-26 02:00:48.598] [info] Iteration 13, mean ranking error 0.0161746%, mean rank change 0.000755099%
+[2026-06-26 02:00:49.995] [info] Iteration 14, mean ranking error 0.0129783%, mean rank change 0.000563601%
+[2026-06-26 02:00:51.340] [info] Iteration 15, mean ranking error 0.0105800%, mean rank change 0.000426569%
+[2026-06-26 02:00:52.721] [info] Iteration 16, mean ranking error 0.00868001%, mean rank change 0.000326759%
+[2026-06-26 02:00:52.818] [info] Time used in prioritization: 23s
+[2026-06-26 02:00:52.820] [info] Number of iterations: 17
+[2026-06-26 02:00:52.824] [info] Final convergence level: 0.00868001%
+[2026-06-26 02:00:52.828] [info] Area under curve: 0.640316
+[2026-06-26 02:00:52.834] [info] Writing feature info
+[2026-06-26 02:00:52.840] [info] Writing feature curves
+[2026-06-26 02:00:52.946] [info] Writing priority rank map
+[2026-06-26 02:00:53.510] [info] Total time used: 32s
+[2026-06-26 02:00:53.518] [info] Number of errors: 0
+[2026-06-26 02:00:53.526] [info] Number of warnings: 0
+[2026-06-26 02:00:53.532] [info] Done
