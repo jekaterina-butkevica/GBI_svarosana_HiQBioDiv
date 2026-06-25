@@ -1,0 +1,24 @@
+Arguments given: -dhW --mode=CAZ2 --gui example_dhW.z5 out
+Settings filename: example_dhW.z5
+Feature list filename: /home/local/pxlehtin/code/z5web/manual_and_example_setups/example setups and data/3_dhW/feature_list.txt
+Map dimensions (width * height): 2845*2382
+Number of grid cells in map (width * height): 6776790
+Number of grid cells in map with data: 2247828
+Feature layer count: 16
+Positive weight feature count: 16
+Negative weight feature count: 0
+Zero weight feature count: 0
+Total number of pixels with data across features: 35965248
+Mean feature extent across study area: 90.45%
+Memory usage of feature data: 59.14MB
+Number of single-feature connectivity transforms: 7
+Time used to read and preprocess layer data: 3s
+Time used in prioritization: 13s
+Number of iterations: 22
+Final convergence level: 0.00967509%
+Area under curve: 0.610620
+Hierarchic mask level 0 minimum rank: 0
+Hierarchic mask level 1 minimum rank: 0.80994
+Total time used: 16s
+Number of errors: 0
+Number of warnings: 1

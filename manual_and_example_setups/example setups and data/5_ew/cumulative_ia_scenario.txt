@@ -1,0 +1,13 @@
+project id = example_of_cumulative_IA
+area conversion factor = 1
+area unit name = ha
+impact unit name = hha 
+analyze direct habitat loss = 1
+analyze cumulative pressures = 1
+direct habitat loss raster list = direct_loss_raster_list.txt
+direct habitat loss link matrix = direct_loss_link_matrix.txt
+cumulative pressures raster list = cumulative_pressures_raster_list.txt
+cumulative pressures link matrix = cumulative_pressures_link_matrix.txt
+[cumulative pressure functions]
+group 1 = cumulative_pressure_link_function1.txt
+group 2 = cumulative_pressure_link_function2.txt

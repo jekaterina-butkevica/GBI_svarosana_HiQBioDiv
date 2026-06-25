@@ -1,0 +1,79 @@
+[2023-12-06 14:09:51.584] [info] Zonation 5 v1.0-7-g61c71b0-dirty
+[2023-12-06 14:09:51.692] [info] Arguments given: -dhW --mode=CAZ2 --gui example_dhW.z5 out
+[2023-12-06 14:09:51.693] [info] Loading project "example_dhW.z5"
+[2023-12-06 14:09:51.694] [info] Using setting: feature list file = feature_list.txt
+[2023-12-06 14:09:51.694] [info] Using setting: weight groups file = weight_groups.txt
+[2023-12-06 14:09:51.695] [info] Using setting: single-feature connectivity link file = connectivity_link.txt
+[2023-12-06 14:09:51.695] [info] Using setting: hierarchic mask layer = ../data/hierarchic_mask.tif
+[2023-12-06 14:09:51.695] [info] Using default setting: curves output interval = 9.99999975e-05
+[2023-12-06 14:09:51.695] [info] Using default setting: max iterations = 500
+[2023-12-06 14:09:51.695] [info] Using default setting: mean ranking error threshold = 0.00999999978
+[2023-12-06 14:09:51.695] [info] Using default setting: smoothing factor = 0
+[2023-12-06 14:09:51.696] [info] Using default setting: stop on plateau = 0
+[2023-12-06 14:09:51.696] [info] Using default setting: zero mode = all
+[2023-12-06 14:09:51.696] [info] Loading weight group information from "/home/local/pxlehtin/code/z5web/manual_and_example_setups/example setups and data/3_dhW/weight_groups.txt"
+[2023-12-06 14:09:51.696] [info] Loading single-feature connectivity transform information from "/home/local/pxlehtin/code/z5web/manual_and_example_setups/example setups and data/3_dhW/connectivity_link.txt"
+[2023-12-06 14:09:51.696] [info] Loading feature layer information from "/home/local/pxlehtin/code/z5web/manual_and_example_setups/example setups and data/3_dhW/feature_list.txt"
+[2023-12-06 14:09:51.708] [warning] Single-feature connectivity transform id 5 not found in "/home/local/pxlehtin/code/z5web/manual_and_example_setups/example setups and data/3_dhW/feature_list.txt" line 12.
+[2023-12-06 14:09:51.718] [info] Validating project
+[2023-12-06 14:09:51.725] [info] Reading layer data
+[2023-12-06 14:09:51.736] [info] Gathering data statistics
+[2023-12-06 14:09:52.415] [info] Map dimensions (width * height): 2845*2382
+[2023-12-06 14:09:52.416] [info] Number of grid cells in map (width * height): 6776790
+[2023-12-06 14:09:52.417] [info] Number of grid cells in map with data: 2247828
+[2023-12-06 14:09:52.419] [info] Feature layer count: 16
+[2023-12-06 14:09:52.424] [info] Positive weight feature count: 16
+[2023-12-06 14:09:52.426] [info] Negative weight feature count: 0
+[2023-12-06 14:09:52.428] [info] Zero weight feature count: 0
+[2023-12-06 14:09:52.430] [info] Total number of pixels with data across features: 35965248
+[2023-12-06 14:09:52.432] [info] Mean feature extent across study area: 90.45%
+[2023-12-06 14:09:52.434] [info] Reading feature layers
+[2023-12-06 14:09:53.518] [info] Memory usage of feature data: 59.14MB
+[2023-12-06 14:09:53.520] [info] Reading hierarchic mask from /home/local/pxlehtin/code/z5web/manual_and_example_setups/example setups and data/data/hierarchic_mask.tif
+[2023-12-06 14:09:53.682] [info] Computing single-feature connectivity transforms
+[2023-12-06 14:09:53.686] [info] Computing connectivity transform for layer 8
+[2023-12-06 14:09:53.830] [info] Computing connectivity transform for layer 9
+[2023-12-06 14:09:54.078] [info] Computing connectivity transform for layer 11
+[2023-12-06 14:09:54.220] [info] Computing connectivity transform for layer 12
+[2023-12-06 14:09:54.357] [info] Computing connectivity transform for layer 13
+[2023-12-06 14:09:54.494] [info] Computing connectivity transform for layer 14
+[2023-12-06 14:09:54.631] [info] Computing connectivity transform for layer 15
+[2023-12-06 14:09:54.753] [info] Number of single-feature connectivity transforms: 7
+[2023-12-06 14:09:54.756] [info] Time used to read and preprocess layer data: 3s
+[2023-12-06 14:09:54.758] [info] Computing priority rank
+[2023-12-06 14:09:55.592] [info] Iteration 0, mean ranking error 9.08559%, mean rank change 3.27399%
+[2023-12-06 14:09:56.183] [info] Iteration 1, mean ranking error 3.31198%, mean rank change 0.936705%
+[2023-12-06 14:09:56.763] [info] Iteration 2, mean ranking error 1.69246%, mean rank change 0.39008%
+[2023-12-06 14:09:57.326] [info] Iteration 3, mean ranking error 0.978079%, mean rank change 0.189316%
+[2023-12-06 14:09:57.902] [info] Iteration 4, mean ranking error 0.607521%, mean rank change 0.100165%
+[2023-12-06 14:09:58.465] [info] Iteration 5, mean ranking error 0.394031%, mean rank change 0.0562579%
+[2023-12-06 14:09:59.028] [info] Iteration 6, mean ranking error 0.264339%, mean rank change 0.033089%
+[2023-12-06 14:09:59.611] [info] Iteration 7, mean ranking error 0.182493%, mean rank change 0.0202075%
+[2023-12-06 14:10:00.441] [info] Iteration 8, mean ranking error 0.130035%, mean rank change 0.0127364%
+[2023-12-06 14:10:01.015] [info] Iteration 9, mean ranking error 0.0951008%, mean rank change 0.00825202%
+[2023-12-06 14:10:01.641] [info] Iteration 10, mean ranking error 0.0715148%, mean rank change 0.00548081%
+[2023-12-06 14:10:02.232] [info] Iteration 11, mean ranking error 0.0551585%, mean rank change 0.00372283%
+[2023-12-06 14:10:02.804] [info] Iteration 12, mean ranking error 0.0435376%, mean rank change 0.00258313%
+[2023-12-06 14:10:03.380] [info] Iteration 13, mean ranking error 0.0349022%, mean rank change 0.00182857%
+[2023-12-06 14:10:03.950] [info] Iteration 14, mean ranking error 0.0286487%, mean rank change 0.00131898%
+[2023-12-06 14:10:04.530] [info] Iteration 15, mean ranking error 0.0237429%, mean rank change 0.000969137%
+[2023-12-06 14:10:05.075] [info] Iteration 16, mean ranking error 0.0199912%, mean rank change 0.000724349%
+[2023-12-06 14:10:05.636] [info] Iteration 17, mean ranking error 0.0169794%, mean rank change 0.000550612%
+[2023-12-06 14:10:06.198] [info] Iteration 18, mean ranking error 0.014543%, mean rank change 0.000425605%
+[2023-12-06 14:10:06.762] [info] Iteration 19, mean ranking error 0.0126381%, mean rank change 0.000334035%
+[2023-12-06 14:10:07.357] [info] Iteration 20, mean ranking error 0.0110096%, mean rank change 0.000265805%
+[2023-12-06 14:10:07.937] [info] Iteration 21, mean ranking error 0.00967509%, mean rank change 0.000214395%
+[2023-12-06 14:10:07.975] [info] Time used in prioritization: 13s
+[2023-12-06 14:10:07.976] [info] Number of iterations: 22
+[2023-12-06 14:10:07.980] [info] Final convergence level: 0.00967509%
+[2023-12-06 14:10:07.983] [info] Area under curve: 0.610620
+[2023-12-06 14:10:07.988] [info] Finding hierarchic mask ranks
+[2023-12-06 14:10:07.997] [info] Hierarchic mask level 0 minimum rank: 0
+[2023-12-06 14:10:07.998] [info] Hierarchic mask level 1 minimum rank: 0.80994
+[2023-12-06 14:10:08.002] [info] Writing feature info
+[2023-12-06 14:10:08.004] [info] Writing feature curves
+[2023-12-06 14:10:08.112] [info] Writing priority rank map
+[2023-12-06 14:10:08.364] [info] Total time used: 16s
+[2023-12-06 14:10:08.365] [info] Number of errors: 0
+[2023-12-06 14:10:08.368] [info] Number of warnings: 1
+[2023-12-06 14:10:08.372] [info] Done

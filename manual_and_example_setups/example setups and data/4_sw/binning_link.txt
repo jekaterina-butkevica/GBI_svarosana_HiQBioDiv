@@ -1,0 +1,2 @@
+#bin_id bin0 bin1 bin2
+1       0    600  945
