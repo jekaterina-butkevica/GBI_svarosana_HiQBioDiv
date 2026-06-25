@@ -1,0 +1,23 @@
+Arguments given: -w --mode=ABF --gui minimal_settings.z5 out_GBI_results
+Settings filename: minimal_settings.z5
+Feature list filename: C:\Users\user\Desktop\HiQBioDiv\GBI_svarosana_HiQBioDiv\pirmais\features_example1.txt
+Map dimensions (width * height): 4700*2789
+Number of grid cells in map (width * height): 13108300
+Number of grid cells in map with data: 6468604
+Input feature layer count: 11
+Feature layer count: 11
+Positive weight feature count: 11
+Negative weight feature count: 0
+Zero weight feature count: 0
+Total number of pixels with data across features: 71154644
+Mean feature extent across study area: 94.77%
+Memory usage of feature data: 130.73MB
+Mean quantization error: 0.0157143%
+Time used to read and preprocess layer data: 7s
+Time used in prioritization: 24s
+Number of iterations: 17
+Final convergence level: 0.00868001%
+Area under curve: 0.640316
+Total time used: 33s
+Number of errors: 0
+Number of warnings: 2
