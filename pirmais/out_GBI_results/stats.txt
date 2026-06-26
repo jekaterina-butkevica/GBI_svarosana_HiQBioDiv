@@ -13,11 +13,11 @@ Total number of pixels with data across features: 71154644
 Mean feature extent across study area: 94.77%
 Memory usage of feature data: 130.73MB
 Mean quantization error: 0.0157143%
-Time used to read and preprocess layer data: 7s
-Time used in prioritization: 23s
+Time used to read and preprocess layer data: 8s
+Time used in prioritization: 25s
 Number of iterations: 17
 Final convergence level: 0.00868001%
 Area under curve: 0.640316
-Total time used: 32s
+Total time used: 34s
 Number of errors: 0
 Number of warnings: 0
